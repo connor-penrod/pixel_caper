@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fac9bd89dcafc049b19f543ccf8fd57, type: 3}
+  m_Name: Rockets
+  m_EditorClassIdentifier: 
+  ItemID: Rockets
+  TargetInventoryName: MainInventory
+  Usable: 1
+  Equippable: 0
+  Quantity: 1
+  ItemName: Rockets
+  ShortDescription: Time for flying rockets.
+  Description: A cylindrical projectile that can be propelled to a great height or
+    distance by the combustion of its contents, used typically as a firework or signal.
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300024, guid: f3f4293ccdddd34468f58745d608416e, type: 3}
+  Prefab: {fileID: 1584778573147830, guid: 46a2d41a952d2124c8910f9fdcb4a5f0, type: 2}
+  SpawnShape: 1
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 100
+  ItemClass: 3
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 0

@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: d6e7588c949476f42aea36878bc9585c
+timeCreated: 1458946794
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RopeSpritesheet_0
+    21300002: RopeSpritesheet_1
+    21300004: RopeSpritesheet_2
+    21300006: RopeSpritesheet_3
+    21300008: RopeSpritesheet_4
+    21300010: RopeSpritesheet_5
+    21300012: RopeSpritesheet_6
+    21300014: RopeSpritesheet_7
+    21300016: RopeSpritesheet_8
+    21300018: RopeSpritesheet_9
+    21300020: RopeSpritesheet_10
+    21300022: RopeSpritesheet_11
+    21300024: RopeSpritesheet_12
+    21300026: RopeSpritesheet_13
+    21300028: RopeSpritesheet_14
+    21300030: RopeSpritesheet_15
+    21300032: RopeSpritesheet_16
+    21300034: RopeSpritesheet_17
+    21300036: RopeSpritesheet_18
+    21300038: RopeSpritesheet_19
+    21300040: RopeSpritesheet_20
+    21300042: RopeSpritesheet_21
+    21300044: RopeSpritesheet_22
+    21300046: RopeSpritesheet_23
+    21300048: RopeSpritesheet_24
+    21300050: RopeSpritesheet_25
+    21300052: RopeSpritesheet_26
+    21300054: RopeSpritesheet_27
+    21300056: RopeSpritesheet_28
+    21300058: RopeSpritesheet_29
+    21300060: RopeSpritesheet_30
+    21300062: RopeSpritesheet_31
+    21300064: RopeSpritesheet_32
+    21300066: RopeSpritesheet_33
+    21300068: RopeSpritesheet_34
+    21300070: RopeSpritesheet_35
+    21300072: RopeSpritesheet_36
+    21300074: RopeSpritesheet_37
+    21300076: RopeSpritesheet_38
+    21300078: RopeSpritesheet_39
+    21300080: RopeSpritesheet_40
+    21300082: RopeSpritesheet_41
+    21300084: RopeSpritesheet_42
+    21300086: RopeSpritesheet_43
+    21300088: RopeSpritesheet_44
+    21300090: RopeSpritesheet_45
+    21300092: RopeSpritesheet_46
+    21300094: RopeSpritesheet_47
+    21300096: RopeSpritesheet_48
+    21300098: RopeSpritesheet_49
+    21300100: RopeSpritesheet_50
+    21300102: RopeSpritesheet_51
+    21300104: RopeSpritesheet_52
+    21300106: RopeSpritesheet_53
+    21300108: RopeSpritesheet_54
+    21300110: RopeSpritesheet_55
+    21300112: RopeSpritesheet_56
+    21300114: RopeSpritesheet_57
+    21300116: RopeSpritesheet_58
+    21300118: RopeSpritesheet_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RopeSpritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7680
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 7168
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6656
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6144
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5632
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 5120
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4608
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 4096
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RopeSpritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

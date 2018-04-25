@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f005fbcfc61684c82bf819bce9d63b, type: 3}
+  m_Name: InventoryMachineGun
+  m_EditorClassIdentifier: 
+  ItemID: InventoryMachineGun
+  TargetInventoryName: MainInventory
+  Usable: 0
+  Equippable: 1
+  Quantity: 1
+  ItemName: Machine Gun
+  ShortDescription: Tearing my body all apart
+  Description: An automatic gun that fires bullets in rapid succession for as long
+    as the trigger is pressed.
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300002, guid: f3f4293ccdddd34468f58745d608416e, type: 3}
+  Prefab: {fileID: 1884810478697366, guid: f1711f798d9cafd43bf3817ae38f237e, type: 2}
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 1
+  ItemClass: 2
+  TargetEquipmentInventoryName: WeaponInventory
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
+  EquippableWeapon: {fileID: 114000010078180980, guid: 641d9847ff9ca4b74931a6ad56733255,
+    type: 2}

@@ -1,0 +1,398 @@
+
+space-corgi.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat/arm1
+  rotate: false
+  xy: 1742, 823
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+cat/arm2
+  rotate: true
+  xy: 338, 2
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+cat/arm2bis
+  rotate: false
+  xy: 1952, 642
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+cat/ear1
+  rotate: true
+  xy: 387, 88
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+cat/ear2
+  rotate: false
+  xy: 1839, 397
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+cat/gun
+  rotate: false
+  xy: 2, 13
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+pig/gun
+  rotate: false
+  xy: 2, 13
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+cat/head
+  rotate: false
+  xy: 1386, 358
+  size: 226, 156
+  orig: 226, 156
+  offset: 0, 0
+  index: -1
+cat/leg1
+  rotate: true
+  xy: 593, 106
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+cat/saber
+  rotate: false
+  xy: 2, 559
+  size: 383, 444
+  orig: 383, 444
+  offset: 0, 0
+  index: -1
+cat/saber-swoosh
+  rotate: false
+  xy: 772, 653
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+cat/torso
+  rotate: false
+  xy: 1830, 815
+  size: 215, 188
+  orig: 215, 188
+  offset: 0, 0
+  index: -1
+chicken/arm1
+  rotate: false
+  xy: 1952, 724
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+chicken/arm2
+  rotate: false
+  xy: 1490, 311
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+chicken/arm2bis
+  rotate: false
+  xy: 1765, 467
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+chicken/ear1
+  rotate: true
+  xy: 1742, 804
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+chicken/ear2
+  rotate: false
+  xy: 1108, 201
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+chicken/gun
+  rotate: true
+  xy: 1286, 409
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+chicken/head
+  rotate: false
+  xy: 1286, 745
+  size: 206, 258
+  orig: 206, 258
+  offset: 0, 0
+  index: -1
+chicken/leg1
+  rotate: false
+  xy: 385, 20
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+chicken/saber
+  rotate: false
+  xy: 387, 139
+  size: 383, 418
+  orig: 383, 418
+  offset: 0, 0
+  index: -1
+chicken/saber-swoosh
+  rotate: false
+  xy: 1029, 653
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+chicken/torso
+  rotate: true
+  xy: 1573, 527
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+corgi/arm1
+  rotate: false
+  xy: 1173, 28
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+corgi/arm2bis
+  rotate: false
+  xy: 1173, 28
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+corgi/arm2
+  rotate: false
+  xy: 1379, 311
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+corgi/ear1
+  rotate: true
+  xy: 1108, 221
+  size: 78, 161
+  orig: 78, 161
+  offset: 0, 0
+  index: -1
+corgi/ear2
+  rotate: true
+  xy: 1760, 549
+  size: 71, 161
+  orig: 71, 161
+  offset: 0, 0
+  index: -1
+corgi/gun
+  rotate: false
+  xy: 772, 201
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+corgi/head
+  rotate: false
+  xy: 1494, 756
+  size: 246, 147
+  orig: 246, 147
+  offset: 0, 0
+  index: -1
+corgi/leg1
+  rotate: true
+  xy: 661, 106
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+corgi/saber
+  rotate: false
+  xy: 2, 113
+  size: 383, 444
+  orig: 383, 444
+  offset: 0, 0
+  index: -1
+rambo/saber
+  rotate: false
+  xy: 2, 113
+  size: 383, 444
+  orig: 383, 444
+  offset: 0, 0
+  index: -1
+corgi/saber-swoosh
+  rotate: false
+  xy: 772, 301
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+rambo/saber-swoosh
+  rotate: false
+  xy: 772, 301
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+corgi/torso
+  rotate: true
+  xy: 1386, 516
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 1494, 753
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pig/arm1
+  rotate: false
+  xy: 1765, 385
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+pig/arm2
+  rotate: true
+  xy: 1220, 110
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+pig/arm2bis
+  rotate: false
+  xy: 1839, 467
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+pig/ear1
+  rotate: true
+  xy: 456, 88
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+pig/ear2
+  rotate: false
+  xy: 1957, 572
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+pig/head
+  rotate: false
+  xy: 1760, 622
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+pig/leg1
+  rotate: true
+  xy: 525, 104
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+pig/saber
+  rotate: false
+  xy: 387, 559
+  size: 383, 444
+  orig: 383, 444
+  offset: 0, 0
+  index: -1
+pig/saber-swoosh
+  rotate: false
+  xy: 1029, 301
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+pig/torso
+  rotate: false
+  xy: 772, 11
+  size: 225, 188
+  orig: 225, 188
+  offset: 0, 0
+  index: -1
+rambo/arm1
+  rotate: false
+  xy: 1286, 317
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+rambo/arm2
+  rotate: true
+  xy: 1173, 110
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+rambo/arm2bis
+  rotate: false
+  xy: 1765, 312
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+rambo/ear1
+  rotate: false
+  xy: 1742, 786
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rambo/ear2
+  rotate: false
+  xy: 1742, 786
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+rambo/gun
+  rotate: false
+  xy: 1494, 905
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+rambo/head
+  rotate: true
+  xy: 1614, 306
+  size: 219, 149
+  orig: 219, 149
+  offset: 0, 0
+  index: -1
+rambo/leg1
+  rotate: false
+  xy: 1923, 550
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+rambo/torso
+  rotate: true
+  xy: 999, 9
+  size: 190, 172
+  orig: 190, 172
+  offset: 0, 0
+  index: -1

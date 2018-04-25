@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 51aa7018dd6e7e347928f2ba4aba0ef5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cactus_0
+    21300002: cactus_1
+    21300004: cactus_2
+    21300006: cactus_3
+    21300008: cactus_4
+    21300010: cactus_5
+    21300012: cactus_6
+    21300014: cactus_7
+    21300016: cactus_8
+    21300018: cactus_9
+    21300020: cactus_10
+    21300022: cactus_11
+    21300024: cactus_12
+    21300026: cactus_13
+    21300028: cactus_14
+    21300030: cactus_15
+    21300032: cactus_16
+    21300034: cactus_17
+    21300036: cactus_18
+    21300038: cactus_19
+    21300040: cactus_20
+    21300042: cactus_21
+    21300044: cactus_22
+    21300046: cactus_23
+    21300048: cactus_24
+    21300050: cactus_25
+    21300052: cactus_26
+    21300054: cactus_27
+    21300056: cactus_28
+    21300058: cactus_29
+    21300060: cactus_30
+    21300062: cactus_31
+    21300064: cactus_32
+    21300066: cactus_33
+    21300068: cactus_34
+    21300070: cactus_35
+    21300072: cactus_36
+    21300074: cactus_37
+    21300076: cactus_38
+    21300078: cactus_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cactus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3783
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3783
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_2
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3783
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3783
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_4
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3783
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_5
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3783
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3470
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3470
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_8
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3470
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_9
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3470
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_10
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3470
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_11
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3470
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3157
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 3157
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3157
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_15
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 3157
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_16
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 3157
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_17
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 3157
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2844
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2844
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_20
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2844
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_21
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2844
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_22
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2844
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_23
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2844
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2531
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2531
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2531
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_27
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2531
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_28
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2531
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_29
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2531
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2218
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_31
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2218
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_32
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2218
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_33
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2218
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_34
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 2218
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_35
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 2218
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1905
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_37
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1905
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_38
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1905
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: cactus_39
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1905
+        width: 253
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

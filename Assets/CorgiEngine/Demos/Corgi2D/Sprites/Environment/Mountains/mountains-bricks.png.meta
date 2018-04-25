@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: fd7069c187c791140866c0cb60a5a045
+timeCreated: 1426549340
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mountains-bricks_0
+    21300002: mountains-bricks_1
+    21300004: mountains-bricks_2
+    21300006: mountains-bricks_3
+    21300008: mountains-bricks_4
+    21300010: mountains-bricks_5
+    21300012: mountains-bricks_6
+    21300014: mountains-bricks_7
+    21300016: mountains-bricks_8
+    21300018: mountains-bricks_9
+    21300020: mountains-bricks_10
+    21300022: mountains-bricks_11
+    21300024: mountains-bricks_12
+    21300026: mountains-bricks_13
+    21300028: mountains-bricks_14
+    21300030: mountains-bricks_15
+    21300032: mountains-bricks_16
+    21300034: mountains-bricks_17
+    21300036: mountains-bricks_18
+    21300038: mountains-bricks_19
+    21300040: mountains-bricks_20
+    21300042: mountains-bricks_21
+    21300044: mountains-bricks_22
+    21300046: mountains-bricks_23
+    21300048: mountains-bricks_24
+    21300050: mountains-bricks_25
+    21300052: mountains-bricks_26
+    21300054: mountains-bricks_27
+    21300056: mountains-bricks_28
+    21300058: mountains-bricks_29
+    21300060: mountains-bricks_30
+    21300062: mountains-bricks_31
+    21300064: mountains-bricks_32
+    21300066: mountains-bricks_33
+    21300068: mountains-bricks_34
+    21300070: mountains-bricks_35
+    21300072: mountains-bricks_36
+    21300074: mountains-bricks_37
+    21300076: mountains-bricks_38
+    21300078: mountains-bricks_39
+    21300080: mountains-bricks_40
+    21300082: mountains-bricks_41
+    21300084: mountains-bricks_42
+    21300086: mountains-bricks_43
+    21300088: mountains-bricks_44
+    21300090: mountains-bricks_45
+    21300092: mountains-bricks_46
+    21300094: mountains-bricks_47
+    21300096: mountains-bricks_48
+    21300098: mountains-bricks_49
+    21300100: mountains-bricks_50
+    21300102: mountains-bricks_51
+    21300104: mountains-bricks_52
+    21300106: mountains-bricks_53
+    21300108: mountains-bricks_54
+    21300110: mountains-bricks_55
+    21300112: mountains-bricks_56
+    21300114: mountains-bricks_57
+    21300116: mountains-bricks_58
+    21300118: mountains-bricks_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mountains-bricks_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1959
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1959
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1959
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_3
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1959
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1959
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1959
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_6
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1959
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_7
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1959
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_8
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1959
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1900
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1900
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_11
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1900
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1900
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1902
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_14
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1900
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_15
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1902
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_16
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1900
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_17
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1900
+        width: 93
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1843
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1843
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1843
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1843
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_22
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1843
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_23
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1843
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_24
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1843
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_25
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1843
+        width: 96
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_26
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1843
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1787
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_28
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1787
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1787
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_30
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1787
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_31
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1787
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_32
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1787
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_33
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1787
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_34
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1787
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_35
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1787
+        width: 93
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1504
+        width: 163
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1504
+        width: 164
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1504
+        width: 165
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_39
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1504
+        width: 163
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_40
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1504
+        width: 163
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_41
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1504
+        width: 165
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1215
+        width: 164
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1215
+        width: 163
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_44
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1215
+        width: 163
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_45
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1215
+        width: 165
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_46
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1215
+        width: 163
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_47
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1215
+        width: 165
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1096
+        width: 188
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_49
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 904
+        width: 129
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_50
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1096
+        width: 185
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_51
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 884
+        width: 164
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_52
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1096
+        width: 188
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_53
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 884
+        width: 191
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_54
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 884
+        width: 193
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_55
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 884
+        width: 192
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 688
+        width: 209
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_57
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 716
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_58
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 688
+        width: 213
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mountains-bricks_59
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 688
+        width: 209
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

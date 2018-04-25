@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dca0fd50192f3eb47a7fb83a687b743b, type: 3}
+  m_Name: InventoryCoin
+  m_EditorClassIdentifier: 
+  ItemID: InventoryCoin
+  ItemName: Coin
+  Usable: 0
+  Equippable: 0
+  Quantity: 1
+  TargetInventoryName: MainInventory
+  ShortDescription: Money for nothing
+  Description: A usually flat piece of metal issued by governmental authority as money.
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300000, guid: f3f4293ccdddd34468f58745d608416e, type: 3}
+  Prefab: {fileID: 1472130053336478, guid: 035b1ce013449bd47bbe1ab049abe0e6, type: 2}
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 10
+  ItemClass: 0
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
+  PointsToAdd: 10

@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &180894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 480894}
+  - component: {fileID: 2380894}
+  - component: {fileID: 3380894}
+  - component: {fileID: 11480894}
+  m_Layer: 0
+  m_Name: 2DDL-TexturizedPoint2DLight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &480894
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180894}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 135, y: 30, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &2380894
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180894}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 1
+  m_Materials:
+  - {fileID: 2100000, guid: 721fe554da1cfcc46abfb09fd18552a5, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+--- !u!33 &3380894
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180894}
+  m_Mesh: {fileID: 0}
+--- !u!114 &11480894
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 180894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 302d2eb1ab4ab4ae395943b9209056dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DDLEvent_OnEnterFOV:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: DynamicLight2D.DynamicLightEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  DDLEvent_OnExitFOV:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: DynamicLight2D.DynamicLightEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  DDLEvent_InsideFOV:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: DynamicLight2D.DynamicLightEvent, Assembly-CSharp, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+  Version: 1.3.1
+  SolidColor: 1
+  LightColor: {r: 1, g: 0, b: 0, a: 1}
+  Intensity: 1
+  LightMaterial: {fileID: 2100000, guid: 721fe554da1cfcc46abfb09fd18552a5, type: 2}
+  light2DType: 0
+  SortOrderID: 0
+  strokeRender: 0
+  LightRadius: 20
+  Segments: 8
+  Layer:
+    serializedVersion: 2
+    m_Bits: 1
+  useEvents: 0
+  objectsWithinSight: 0
+  intelliderConvex: 0
+  recalculateNormals: 1
+  flipXYtoXZ: 0
+  debugLines: 1
+  uv_Offset: {x: 0.5, y: 0.5}
+  uv_Scale: {x: 0.5, y: 0.5}
+  vertexWorking: 0
+  RangeAngle: 360
+  staticScene: 1
+  doNotRenderMesh: 0
+  lastLight2DType: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: LightRadius
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: Layer.m_Bits
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: LightColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: LightColor.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: LightColor.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: LightColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 180894}
+  m_IsPrefabParent: 1

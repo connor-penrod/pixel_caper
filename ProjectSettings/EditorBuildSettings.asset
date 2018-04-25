@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/CorgiEngine/Common/SplashScreen.unity
+    guid: 7b96552fd1198fa4eaae54a2f975645e
+  - enabled: 0
+    path: Assets/CorgiEngine/Common/LoadingScreen.unity
+    guid: 0564d059eb6550c49a366517853b04dd
+  - enabled: 0
+    path: Assets/CorgiEngine/Common/StartScreen.unity
+    guid: b9cf7e391a5874f80a0485164885fe54
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Mesa1.unity
+    guid: 3255dcacf4a25fc4c8070322156f10cd
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Mesa2.unity
+    guid: 808661879b505b84ca4f4d679b486cd5
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Mountains.unity
+    guid: 95d196af875ba35478432a81627a3084
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Lava.unity
+    guid: 021858c77d85c1e4a944245dd9e0cf08
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Pixel/PixelLevel.unity
+    guid: 2380b3a9640179c4791abe8cdec4ea5c
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Brobro/BrobroLevel.unity
+    guid: a4b03f0bea3ef6444819e45677eee09f
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi2D/Sandbox.unity
+    guid: 834d2ad12a39c48bba0d203a2d9de965
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/SuperHipsterBros/HipsterLevel.unity
+    guid: 67d7231ca91f47a43932691bedc7be2a
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Corgi3D/Corgi3D.unity
+    guid: 21235c11eb96a4cce9524e313642ab64
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/LevelSelection/LevelSelection.unity
+    guid: 0bba9bfc439ed1f458ec61e4c0008ebd
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Minimal/MinimalLevel.unity
+    guid: 6bc87e572545fc543b9e3a9a445f0e44
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Minimal/FeaturesInventory.unity
+    guid: 01cc8dfd93b2bf64c8ffaea6085007d9
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Minimal/FeaturesWeapons.unity
+    guid: ebcd6de0032f6a946a11ce7c5c7e5b02
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Minimal/FeaturesKeys.unity
+    guid: 654cb02afee826c4e8c21a77155e84e3
+  - enabled: 0
+    path: Assets/CorgiEngine/InventoryEngine/Demos/PixelRogue/Minimal1.unity
+    guid: b7b14cfcf997f4d40a54d4eee5f33401
+  - enabled: 0
+    path: Assets/CorgiEngine/InventoryEngine/Demos/PixelRogue/Minimal2.unity
+    guid: 77c11560aca2ca24595389a0ea78a11a
+  - enabled: 0
+    path: Assets/CorgiEngine/InventoryEngine/Demos/PixelRogue/PixelRogueRoom1.unity
+    guid: bbd1671f1789c734ebafbab88956dd66
+  - enabled: 0
+    path: Assets/CorgiEngine/InventoryEngine/Demos/PixelRogue/PixelRogueRoom2.unity
+    guid: c3ccf26bc08e243b1aae7d13d40d2ec4
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Minimal/OneWayLevelHorizontal.unity
+    guid: 5e74e8fd6deb84749a4fc4e4b8d7ea09
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Minimal/OneWayLevelVertical.unity
+    guid: c8d1ba4ad1f68a5449b10a0921eabb7a
+  - enabled: 0
+    path: Assets/CorgiEngine/Demos/Minimal/FeaturesPlatforms.unity
+    guid: 7c52201ab32b101488d1487d7683ccdb
+  - enabled: 0
+    path: Assets/_Scenes/UI Test.unity
+    guid: 355f5e2e4ea7a604bb29af57ee423ac0
+  - enabled: 0
+    path: Assets/_Scenes/Start.unity
+    guid: 8c6ec3e29de36584191e676b18a03f3e
+  - enabled: 1
+    path: Assets/_Scenes/MainMenu.unity
+    guid: 0807deda191899143be9f2df969cf86a
+  - enabled: 1
+    path: Assets/_Scenes/Level 1.unity
+    guid: 672b633ea76f896428cc0c3e7ff3cfb1
+  - enabled: 1
+    path: Assets/_Scenes/Loading.unity
+    guid: a8b06ac82739ff247a8b7cf100da27db

@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 83d07fdc4b9fa5343874245d0cf919fd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: jumper_0
+    21300002: jumper_1
+    21300004: jumper_2
+    21300006: jumper_3
+    21300008: jumper_4
+    21300010: jumper_5
+    21300012: jumper_6
+    21300014: jumper_7
+    21300016: jumper_8
+    21300018: jumper_9
+    21300020: jumper_10
+    21300022: jumper_11
+    21300024: jumper_12
+    21300026: jumper_13
+    21300028: jumper_14
+    21300030: jumper_15
+    21300032: jumper_16
+    21300034: jumper_17
+    21300036: jumper_18
+    21300038: jumper_19
+    21300040: jumper_20
+    21300042: jumper_21
+    21300044: jumper_22
+    21300046: jumper_23
+    21300048: jumper_24
+    21300050: jumper_25
+    21300052: jumper_26
+    21300054: jumper_27
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jumper_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1848
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1848
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1848
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1848
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1648
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1648
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1648
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1648
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1448
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1448
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1448
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1448
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1448
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1248
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1248
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1248
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1248
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1048
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1048
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1048
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1048
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 848
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: jumper_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 848
+        width: 100
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

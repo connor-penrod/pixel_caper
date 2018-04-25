@@ -1,0 +1,321 @@
+
+space-corgi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cat/arm1
+  rotate: false
+  xy: 259, 412
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+cat/arm2
+  rotate: false
+  xy: 1029, 1739
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+cat/arm2bis
+  rotate: false
+  xy: 644, 1355
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+cat/ear1
+  rotate: false
+  xy: 644, 958
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+cat/ear2
+  rotate: false
+  xy: 1988, 1976
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+cat/gun
+  rotate: false
+  xy: 1237, 1946
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+pig/gun
+  rotate: false
+  xy: 1237, 1946
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+cat/head
+  rotate: false
+  xy: 772, 1536
+  size: 226, 156
+  orig: 226, 156
+  offset: 0, 0
+  index: -1
+cat/leg1
+  rotate: false
+  xy: 229, 314
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+cat/saber
+  rotate: false
+  xy: 2, 1600
+  size: 383, 444
+  orig: 383, 444
+  offset: 0, 0
+  index: -1
+cat/saber-swoosh
+  rotate: false
+  xy: 387, 1248
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+cat/torso
+  rotate: false
+  xy: 451, 557
+  size: 215, 188
+  orig: 215, 188
+  offset: 0, 0
+  index: -1
+chicken/arm1
+  rotate: false
+  xy: 1909, 1955
+  size: 77, 89
+  orig: 77, 89
+  offset: 0, 0
+  index: -1
+chicken/arm2
+  rotate: false
+  xy: 259, 494
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+chicken/arm2bis
+  rotate: false
+  xy: 644, 1191
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+chicken/ear1
+  rotate: false
+  xy: 1882, 1928
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+chicken/ear2
+  rotate: false
+  xy: 1802, 1763
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+chicken/gun
+  rotate: false
+  xy: 1573, 1946
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+chicken/head
+  rotate: false
+  xy: 1029, 1786
+  size: 206, 258
+  orig: 206, 258
+  offset: 0, 0
+  index: -1
+chicken/leg1
+  rotate: false
+  xy: 1000, 1626
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+chicken/saber
+  rotate: false
+  xy: 2, 734
+  size: 383, 418
+  orig: 383, 418
+  offset: 0, 0
+  index: -1
+chicken/saber-swoosh
+  rotate: false
+  xy: 2, 382
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+chicken/torso
+  rotate: false
+  xy: 1573, 1759
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+corgi/arm1
+  rotate: false
+  xy: 644, 1273
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+corgi/arm2bis
+  rotate: false
+  xy: 644, 1273
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+corgi/arm2
+  rotate: false
+  xy: 1237, 1799
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+corgi/ear1
+  rotate: false
+  xy: 1802, 1783
+  size: 78, 161
+  orig: 78, 161
+  offset: 0, 0
+  index: -1
+corgi/ear2
+  rotate: false
+  xy: 644, 1437
+  size: 71, 161
+  orig: 71, 161
+  offset: 0, 0
+  index: -1
+corgi/gun
+  rotate: false
+  xy: 1237, 1846
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+corgi/head
+  rotate: false
+  xy: 387, 747
+  size: 246, 147
+  orig: 246, 147
+  offset: 0, 0
+  index: -1
+corgi/leg1
+  rotate: false
+  xy: 229, 246
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+corgi/saber
+  rotate: false
+  xy: 2, 1154
+  size: 383, 444
+  orig: 383, 444
+  offset: 0, 0
+  index: -1
+corgi/saber-swoosh
+  rotate: false
+  xy: 772, 1694
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+corgi/torso
+  rotate: false
+  xy: 2, 5
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+empty
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pig/arm1
+  rotate: false
+  xy: 644, 1109
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+pig/arm2
+  rotate: false
+  xy: 1348, 1799
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+pig/arm2bis
+  rotate: false
+  xy: 644, 1027
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+pig/ear1
+  rotate: false
+  xy: 717, 1461
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+pig/ear2
+  rotate: false
+  xy: 717, 1530
+  size: 49, 68
+  orig: 49, 68
+  offset: 0, 0
+  index: -1
+pig/head
+  rotate: false
+  xy: 259, 541
+  size: 190, 191
+  orig: 190, 191
+  offset: 0, 0
+  index: -1
+pig/leg1
+  rotate: false
+  xy: 333, 426
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+pig/saber
+  rotate: false
+  xy: 387, 1600
+  size: 383, 444
+  orig: 383, 444
+  offset: 0, 0
+  index: -1
+pig/saber-swoosh
+  rotate: false
+  xy: 387, 896
+  size: 255, 350
+  orig: 255, 350
+  offset: 0, 0
+  index: -1
+pig/torso
+  rotate: false
+  xy: 2, 192
+  size: 225, 188
+  orig: 225, 188
+  offset: 0, 0
+  index: -1

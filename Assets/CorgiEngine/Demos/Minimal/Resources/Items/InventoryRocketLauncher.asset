@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16f005fbcfc61684c82bf819bce9d63b, type: 3}
+  m_Name: InventoryRocketLauncher
+  m_EditorClassIdentifier: 
+  ItemID: InventoryRocketLauncher
+  TargetInventoryName: MainInventory
+  Usable: 0
+  Equippable: 1
+  Quantity: 1
+  ItemName: Rocket Launcher
+  ShortDescription: Used to fire rockets at everything else
+  Description: "Rockets are cool. \nThere's no getting around that. \n- Elon Musk"
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300006, guid: f3f4293ccdddd34468f58745d608416e, type: 3}
+  Prefab: {fileID: 1588939153425230, guid: 49d4c070e8b68be47ac21cc26f39a84c, type: 2}
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 1
+  ItemClass: 2
+  TargetEquipmentInventoryName: WeaponInventory
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
+  EquippableWeapon: {fileID: 114000012045269504, guid: a2ccbf69c460bd44a9e4a71ac3c0a9ad,
+    type: 2}

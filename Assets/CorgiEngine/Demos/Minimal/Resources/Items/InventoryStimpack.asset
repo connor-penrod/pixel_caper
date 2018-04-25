@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61155479527af504ba0494d5c38a7cbb, type: 3}
+  m_Name: InventoryStimpack
+  m_EditorClassIdentifier: Assembly-CSharp:MoreMountains.CorgiEngine:HealthBonusItem
+  ItemID: InventoryStimpack
+  TargetInventoryName: MainInventory
+  Usable: 1
+  Equippable: 0
+  Quantity: 1
+  ItemName: Stimpack
+  ShortDescription: Good for health, bad for education
+  Description: A medical kit or syringe used commonly in sci-fi movies and games to
+    heal the user of wounds.
+  CanMoveObject: 1
+  CanSwapObject: 1
+  Icon: {fileID: 21300008, guid: f3f4293ccdddd34468f58745d608416e, type: 3}
+  Prefab: {fileID: 1162568021598160, guid: 4924e56d742a5794e87a0c6a899d2fec, type: 2}
+  PrefabDropMinDistance: {x: 2, y: 2, z: 0}
+  PrefabDropMaxDistance: {x: 3, y: 3, z: 0}
+  MaximumStack: 1
+  ItemClass: 4
+  TargetEquipmentInventoryName: 
+  EquippedSound: {fileID: 0}
+  UsedSound: {fileID: 0}
+  MovedSound: {fileID: 0}
+  DroppedSound: {fileID: 0}
+  UseDefaultSoundsIfNull: 1
+  HealthBonus: 10

@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: e25d1d88ce0df72488c96a6125d95102
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: urchin_0
+    21300002: urchin_1
+    21300004: urchin_2
+    21300006: urchin_3
+    21300008: urchin_4
+    21300010: urchin_5
+    21300012: urchin_6
+    21300014: urchin_7
+    21300016: urchin_8
+    21300018: urchin_9
+    21300020: urchin_10
+    21300022: urchin_11
+    21300024: urchin_12
+    21300026: urchin_13
+    21300028: urchin_14
+    21300030: urchin_15
+    21300032: urchin_16
+    21300034: urchin_17
+    21300036: urchin_18
+    21300038: urchin_19
+    21300040: urchin_20
+    21300042: urchin_21
+    21300044: urchin_22
+    21300046: urchin_23
+    21300048: urchin_24
+    21300050: urchin_25
+    21300052: urchin_26
+    21300054: urchin_27
+    21300056: urchin_28
+    21300058: urchin_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: urchin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1851
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1851
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1851
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1851
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1851
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1654
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1654
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1654
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1654
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_9
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1654
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1457
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1457
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1457
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1457
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1457
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1260
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_17
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1260
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_18
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1260
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_19
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1260
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1063
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1063
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1063
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_23
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1063
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_24
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1063
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 866
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 866
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_27
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 866
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_28
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 866
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: urchin_29
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 866
+        width: 220
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

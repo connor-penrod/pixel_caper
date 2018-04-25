@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 606cd4f117644ee47a1603ffc1d23393
+timeCreated: 1459122475
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RectangleClimbMove_0
+    21300002: RectangleClimbMove_1
+    21300004: RectangleClimbMove_2
+    21300006: RectangleClimbMove_3
+    21300008: RectangleClimbMove_4
+    21300010: RectangleClimbMove_5
+    21300012: RectangleClimbMove_6
+    21300014: RectangleClimbMove_7
+    21300016: RectangleClimbMove_8
+    21300018: RectangleClimbMove_9
+    21300020: RectangleClimbMove_10
+    21300022: RectangleClimbMove_11
+    21300024: RectangleClimbMove_12
+    21300026: RectangleClimbMove_13
+    21300028: RectangleClimbMove_14
+    21300030: RectangleClimbMove_15
+    21300032: RectangleClimbMove_16
+    21300034: RectangleClimbMove_17
+    21300036: RectangleClimbMove_18
+    21300038: RectangleClimbMove_19
+    21300040: RectangleClimbMove_20
+    21300042: RectangleClimbMove_21
+    21300044: RectangleClimbMove_22
+    21300046: RectangleClimbMove_23
+    21300048: RectangleClimbMove_24
+    21300050: RectangleClimbMove_25
+    21300052: RectangleClimbMove_26
+    21300054: RectangleClimbMove_27
+    21300056: RectangleClimbMove_28
+    21300058: RectangleClimbMove_29
+    21300060: RectangleClimbMove_30
+    21300062: RectangleClimbMove_31
+    21300064: RectangleClimbMove_32
+    21300066: RectangleClimbMove_33
+    21300068: RectangleClimbMove_34
+    21300070: RectangleClimbMove_35
+    21300072: RectangleClimbMove_36
+    21300074: RectangleClimbMove_37
+    21300076: RectangleClimbMove_38
+    21300078: RectangleClimbMove_39
+    21300080: RectangleClimbMove_40
+    21300082: RectangleClimbMove_41
+    21300084: RectangleClimbMove_42
+    21300086: RectangleClimbMove_43
+    21300088: RectangleClimbMove_44
+    21300090: RectangleClimbMove_45
+    21300092: RectangleClimbMove_46
+    21300094: RectangleClimbMove_47
+    21300096: RectangleClimbMove_48
+    21300098: RectangleClimbMove_49
+    21300100: RectangleClimbMove_50
+    21300102: RectangleClimbMove_51
+    21300104: RectangleClimbMove_52
+    21300106: RectangleClimbMove_53
+    21300108: RectangleClimbMove_54
+    21300110: RectangleClimbMove_55
+    21300112: RectangleClimbMove_56
+    21300114: RectangleClimbMove_57
+    21300116: RectangleClimbMove_58
+    21300118: RectangleClimbMove_59
+    21300120: RectangleClimbMove_60
+    21300122: RectangleClimbMove_61
+    21300124: RectangleClimbMove_62
+    21300126: RectangleClimbMove_63
+    21300128: RectangleClimbMove_64
+    21300130: RectangleClimbMove_65
+    21300132: RectangleClimbMove_66
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RectangleClimbMove_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3840
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_12
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3584
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_24
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_25
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_41
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_51
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_52
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_54
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_55
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: RectangleClimbMove_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
